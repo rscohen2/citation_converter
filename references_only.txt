@@ -1,0 +1,161 @@
+
+REFERENCES
+[1] Syed Ishtiaque Ahmed, Steven J Jackson, Nova Ahmed, Hasan Shahid Ferdous, Md Rashidujjaman Rifat, A S M Rizvi, Shamir Ahmed, and Rifat Sabbir Mansur. 2014. Protibadi: A platform for fighting sexual harassment in urban Bangladesh. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 2695�2704.
+[2] K Albury, P Byron, A McCosker, T Pym, J Walshe, K Race, and C Dietzel. 2019. Safety, risk and wellbeing on dating apps: Final report.
+[3] Kath Albury, Anthony McCosker, Tinonee Pym, and Paul Byron. 2020. Dating apps as public health �problems�: cautionary tales and vernacular pedagogies in news media. Heal. Sociol. Rev. (2020), 1�17.
+[4] Mohammed Eunus Ali, Shabnam Basera Rishta, Lazima Ansari, Tanzima Hashem, and Ahamad Imtiaz Khan. 2015. SafeStreet: empowering women against street harassment using a privacy-aware location based application. In Proceedings of the Seventh International Conference on Information and Communication Technologies and Development, 1�4.
+[5] Nazanin Andalibi, Oliver L Haimson, Munmun De Choudhury, and Andrea Forte. 2016. Understanding social media disclosures of sexual abuse through the lenses of support seeking and anonymity. In Proceedings of the 2016 CHI conference on human factors in computing systems, 3906�3918.
+[6] M Anderson, E A Vogels, and E Turner. 2020. The virtues and downsides of online dating. Pew Res. Cent. report. Retrieved May 1, (2020), 2020.
+[7] Albert Bandura. 2001. Social Cognitive Theory of Mass Communication. Media Psychol. 3, 3 (August 2001),
+265�299. DOI:https://doi.org/10.1207/S1532785XMEP0303_03
+[8] Jeffrey Bardzell and Shaowen Bardzell. 2011. Pleasure is your birthright: digitally enabled designer sex toys as a case of third-wave HCI. In Proceedings of the SIGCHI conference on Human Factors in computing systems, 257�266.
+[9] Shaowen Bardzell. 2010. Feminist HCI: taking stock and outlining an agenda for design. In Proceedings of the SIGCHI conference on human factors in computing systems, 1301�1310.
+[10] Kathleen C Basile, Sarah DeGue, Kathryn Jones, Kimberley Freire, Jenny Dills, Sharon G Smith, and Jerris L Raiford. 2016. STOP SV: A technical package to prevent sexual violence. (2016).
+[11] Kathleen C Basile, Sharon G Smith, Matthew Breiding, Michele C Black, and Reshma R Mahendra. 2014. Sexual violence surveillance: Uniform definitions and recommended data elements. Version 2.0. (2014).
+[12] Jeremy Birnholtz, Shruta Rawat, Richa Vashista, Dicky Baruah, Alpana Dange, and Anne-Marie Boyer. 2020. Layers of Marginality: An Exploration of Visibility, Impressions, and Cultural Context on Geospatial Apps for Men Who Have Sex With Men in Mumbai, India. Soc. Media+ Soc. 6, 2 (2020), 2056305120913995.
+[13] Jeremy Birnholtz, Irina Shklovski, Mark Handel, and Eran Toch. 2015. Let�s talk about sex (Apps), CSCW. In
+
+
+Proceedings of the 18th ACM Conference Companion on Computer Supported Cooperative Work & Social Computing, 283�288.
+[14] Ginette C. Blackhart, Jennifer Fitzpatrick, and Jessica Williamson. 2014. Dispositional factors predicting use of online dating sites and behaviors related to online dating. Comput. Human Behav. 33, (2014), 113�118.
+DOI:https://doi.org/10.1016/j.chb.2014.01.022
+[15] Courtney Blackwell, Jeremy Birnholtz, and Charles Abbott. 2014. Seeing and being seen: Co-situation and impression formation using Grindr, a location-aware gay dating app. New Media Soc. (2014), 1�20.
+DOI:https://doi.org/10.1177/1461444814521595
+[16] Lindsay Blackwell, Nicole Ellison, Natasha Elliott-Deflo, and Raz Schwartz. 2019. Harassment in social virtual reality: Challenges for platform governance. Proc. ACM Human-Computer Interact. 3, CSCW (2019), 1�25.
+[17] Jan Blom, Divya Viswanathan, Mirjana Spasojevic, Janet Go, Karthik Acharya, and Robert Ahonius. 2010. Fear and the city: role of mobile services in harnessing safety and security in urban use contexts. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 1841�1850.
+[18] Mark Blythe and Mark Jones. 2004. Human computer (sexual) interactions. interactions 11, 5 (2004), 75�76.
+[19] Matthew Joseph Breiding, Jieru Chen, and Mikel L Walters. 2013. The National Intimate Partner and Sexual Violence Survey (NISVS); 2010 findings on victimization by sexual orientation. (2013).
+[20] Johanna Brewer, Joseph�Jofish� Kaye, Amanda Williams, and Susan Wyche. 2006. Sexual interactions: why we should talk about sex in HCI. In CHI�06 Extended Abstracts on Human Factors in Computing Systems, 1695� 1698.
+[21] Robert J Brym and Rhonda L Lenton. 2001. Love Online: A Report on Digital Dating in Canada. Toronto, Canada: MSN. CA.
+[22] Melissa Burkett and Karine Hamilton. 2012. Postfeminist sexual agency: Young women�s negotiations of sexual consent. Sexualities 15, 7 (October 2012), 815�833. DOI:https://doi.org/10.1177/1363460712454076
+[23] California State Legislature. 2014. SB-967 Student safety: sexual assault. Retrieved from https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201320140SB967
+[24] Erin A Casey and Taryn P Lindhorst. 2009. Toward a multi-level, ecological approach to the primary prevention of sexual assault: Prevention in peer and community contexts. Trauma, Violence, Abus. 10, 2 (2009), 91�114.
+[25] Edmond Pui Hang Choi, Janet Yuen Ha Wong, and Daniel Yee Tak Fong. 2018. An emerging risk factor of sexual abuse: the use of smartphone dating applications. Sex. Abus. 30, 4 (2018), 343�366.
+[26] Francesca Comunello, Lorenza Parisi, and Francesca Ieracitano. 2020. Negotiating gender scripts in mobile dating apps: between affordances, usage norms and practices. Information, Commun. Soc. (2020), 1�17.
+[27] Elena Francesca Corriero and Stephanie Tom Tong. 2016. Managing uncertainty in mobile dating applications: Goals, concerns of use, and information seeking in Grindr. Mob. Media Commun. 4, 1 (2016), 121�141.
+[28] Danielle Couch and Pranee Liamputtong. 2008. Online dating and mating: The use of the internet to meet sexual partners. Qual.Health Res 18, 2 (2008), 268�279. DOI:https://doi.org/18/2/268 [pii];10.1177/1049732307312832 [doi]
+[29] Keith Cousins and Brian Edwards. How to Report a Sexual Assault to a Dating App. ProPublica.
+[30] Sarah DeGue, Thomas R Simon, Kathleen C Basile, Sue Lin Yee, Karen Lang, and Howard Spivak. 2012. Moving forward by looking back: Reflecting on a decade of CDC�s work in sexual violence prevention, 2000-- 2010. J. Women�s Heal. 21, 12 (2012), 1211�1218.
+[31] Jill P Dimond, Michaelanne Dye, Daphne LaRose, and Amy S Bruckman. 2013. Hollaback! The role of storytelling online in a social movement organization. In Proceedings of the 2013 conference on Computer supported cooperative work, 477�490.
+[32] Judith Donath. 2007. Signals in social supernets. J. Comput. Commun. 13, 1 (2007), 231�251.
+DOI:https://doi.org/10.1111/j.1083-6101.2007.00394.x
+[33] Judith Donath. 2007. Signals, cues and meaning. Personal communication.
+[34] Stefanie Duguay, Jean Burgess, and Nicolas Suzor. 2020. Queer women�s experiences of patchwork platform governance on Tinder, Instagram, and Vine. Convergence 26, 2 (2020), 237�252.
+[35] Anna Eaglin and Shaowen Bardzell. 2011. Sex toys and designing for sexual wellness. In CHI�11 Extended Abstracts on Human Factors in Computing Systems. 1837�1842.
+[36] Ashley K Fansher and Sara Eckinger. 2020. Tinder Tales: An Exploratory Study of Online Dating Users and Their Most Interesting Stories. Deviant Behav. (2020), 1�15.
+[37] Julia R Fernandez and Jeremy Birnholtz. 2019. � I Don�t Want Them to Not Know� Investigating Decisions to Disclose Transgender Identity on Dating Platforms. Proc. ACM Human-Computer Interact. 3, CSCW (2019), 1� 21.
+[38] Andrew T Fiore and Judith S Donath. 2004. Online Personals: An Overview. In CHI�04 Extended Abstracts on Human Factors in �, 1395�1398. DOI:https://doi.org/10.1145/985921.986073
+[39] Colin Fitzpatrick and Jeremy Birnholtz. 2018. �I Shut the Door�: Interactions, tensions, and negotiations from a location-based social app. New Media Soc. 20, 7 (2018), 2469�2488.
+[40] Hannah Frith and Celia Kitzinger. 2001. Reformulating Sexual Script Theory. Theory Psychol. 11, 2 (April 2001), 209�232. DOI:https://doi.org/10.1177/0959354301112004
+[41] Jeana H Frost, Zoe Chance, Michael I Norton, and Dan Ariely. 2008. People are experience goods: Improving online dating with virtual dates. J. Interact. Mark. 22, 1 (2008), 51�61.
+[42] Claudia Garc\�\ia-Moreno, Christina Pallitto, Karen Devries, Heidi St�ckl, Charlotte Watts, and Naeema
+
+
+Abrahams. 2013. Global and regional estimates of violence against women: prevalence and health effects of intimate partner violence and non-partner sexual violence. World Health Organization.
+[43] Jennifer L. Gibbs, Nicole B. Ellison, and Rebecca D. Heino. 2006. Self-presentation in online personals: The role of anticipated future interaction, self-disclosure, and perceived success in internet dating. Communic. Res. 33, 2 (2006), 152�177. DOI:https://doi.org/10.1177/0093650205285368
+[44] Jennifer L Gibbs, Nicole B Ellison, and Chih-Hui Lai. 2011. First comes love, then comes google: An investigation of uncertainty reduction strategies and self-disclosure in online dating. Communic. Res. 38,
+December 2010 (2011), 70�100. DOI:https://doi.org/10.1177/0093650210377091
+[45] Louisa Gilbert, Aaron L Sarvet, Melanie Wall, Kate Walsh, Leigh Reardon, Patrick Wilson, John Santelli, Shamus Khan, Martie Thompson, Jennifer S Hirsch, and others. 2019. Situational contexts and risk factors associated with incapacitated and nonincapacitated sexual assaults among college women. J. Women�s Heal. 28, 2 (2019), 185�193.
+[46] Rosalie Gillett. 2018. Intimate intrusions online: Studying the normalisation of abuse in dating apps. In Women�s Studies International Forum, 212�219.
+[47] Erving Goffman. 1978. The Presentation of Self in Everyday Life. New York, NY: Harmondsworth.
+[48] Jeffrey A Hall, Namkee Park, Hayeon Song, and Michael J Cody. 2010. Strategic misrepresentation in online dating: The effects of gender, self-monitoring, and personality traits. J. Soc. Pers. Relat. 27, 1 (2010), 117�135.
+DOI:https://doi.org/10.1177/0265407509349633
+[49] Jeffrey T. Hancock, Catalina Toma, and Nicole Ellison. 2007. The truth about lying in online dating profiles. In
+CHI Proceedings, 449�452. DOI:https://doi.org/10.1145/1240624.1240697
+[50] Jeffrey T. Hancock and Catalina L. Toma. 2009. Putting your best face forward: The accuracy of online dating photographs. J. Commun. 59, 2 (2009), 367�386. DOI:https://doi.org/10.1111/j.1460-2466.2009.01420.x
+[51] Mark J Handel and Irina Shklovski. 2012. Disclosure, ambiguity and risk reduction in real-time dating sites. In
+Proceedings of the 17th ACM international conference on Supporting group work, 175�178.
+[52] L Camille Hebert. 2007. Why Don�t Reasonable Women Complain about Sexual Harassment. Ind. LJ 82, (2007), 711.
+[53] Nicola Henry and Anastasia Powell. 2018. Technology-facilitated sexual violence: A literature review of empirical research. Trauma, violence, Abus. 19, 2 (2018), 195�208.
+[54] Jennifer S Hirsch, Shamus R Khan, Alexander Wamboldt, and Claude A Mellins. 2019. Social dimensions of sexual consent among cisgender heterosexual college students: insights from ethnographic research. J. Adolesc. Heal. 64, 1 (2019), 26�35.
+[55] Owen Jacques. Sexual predators using Tinder, dating apps to find victims, survivors and police warn. ABC News.
+[56] Mara et al James, Sandy E.; Herman, Jody L; Rankin, Susan; Keisling. 2015. The Report of the 2015 U.S. Transgender Survey. Natl. Cent. Transgender Equal. (2015), 302.
+[57] Shagun Jhaver, Sucheta Ghoshal, Amy Bruckman, and Eric Gilbert. 2018. Online harassment and content moderation: The case of blocklists. ACM Trans. Comput. Interact. 25, 2 (2018), 1�33.
+[58] Kristen N Jozkowski. 2015. Barriers to affirmative consent policies and the need for affirmative sexuality. U. Pac. L. Rev. 47, (2015), 741.
+[59] Gopinaath Kannabiran, Alex A Ahmed, Matthew Wood, Madeline Balaam, Joshua G Tanenbaum, Shaowen Bardzell, and Jeffrey Bardzell. 2018. Design for sexual wellbeing in HCI. In Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems, 1�7.
+[60] Gopinaath Kannabiran, Jeffrey Bardzell, and Shaowen Bardzell. 2011. How HCI talks about sexuality: discursive strategies, blind spots, and opportunities for future research. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 695�704.
+[61] F J F Keenan. 2015. University ethics: How colleges can build and benefit from a culture of ethics. Rowman & Littlefield.
+[62] Shamus R Khan, Jennifer S Hirsch, Alexander Wambold, and Claude A Mellins. 2018. �I Didn�t Want To Be�That Girl��: The Social Risks of Labeling, Telling, and Reporting Sexual Assault. Sociol. Sci. 5, (2018), 432�460.
+[63] Dawn Kuczwara. 2018. The Bumble Bizz App Can Help Businesses Network. Business News Daily.
+[64] Raphael J Landovitz, Chi-Hong Tseng, Matthew Weissman, Michael Haymer, Brett Mendenhall, Kathryn Rogers, Rosemary Veniegas, Pamina M Gorbach, Cathy J Reback, and Steven Shoptaw. 2013. Epidemiology, sexual risk behavior, and HIV prevention practices of men who have sex with men using GRINDR in Los Angeles, California. J. Urban Heal. 90, 4 (2013), 729�739.
+[65] LegalFling. Get explicit about sexual consent.
+[66] Christina Masden and W Keith Edwards. 2015. Understanding the role of community in online dating. In CHI Proceedings, 535�544. DOI:https://doi.org/10.1145/2702123.2702417
+[67] Nabila Rezwana Mirza, Shareen Mahmud, Prosonna Hossain Nabila, and Nova Ahmed. 2016. Poster: Protibaadi: An Extended Solution to Deal with Sexual Harassment. In Proceedings of the 14th Annual International Conference on Mobile Systems, Applications, and Services Companion, 59.
+[68] Manisha Mohan, Misha Sra, and Chris Schmandt. 2017. Technological interventions to detect, communicate and deter sexual assault. In Proceedings of the 2017 ACM International Symposium on Wearable Computers, 126�
+
+
+129.
+[69] Charlene L Muehlenhard, Terry P Humphreys, Kristen N Jozkowski, and Zo� D Peterson. 2016. The complexities of sexual consent among college students: A conceptual and empirical review. J. Sex Res. 53, 4�5 (2016), 457�487.
+[70] Elizabeth Naismith Picciani. He Sexually Assaulted Her After They Met on Bumble. Then She Saw Him on Tinder. Then Hinge. ProPublica. Retrieved May 31, 2020 from https://www.propublica.org/article/he-sexually- assaulted-her-after-they-met-on-bumble-then-she-saw-him-on-tinder-then-hinge
+[71] Josef Nguyen and Bonnie Ruberg. 2020. Challenges of Designing Consent: Consent Mechanics in Video Games as Models for Interactive User Agency. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, 1�13.
+[72] Fayika Farhat Nova, M D Rashidujjaman Rifat, Pratyasha Saha, Syed Ishtiaque Ahmed, and Shion Guha. 2019. Online sexual harassment over anonymous social media in Bangladesh. In Proceedings of the Tenth International Conference on Information and Communication Technologies and Development, 1�12.
+[73] Rebecca R Ortiz and Autumn Shafer. 2018. Unblurring the lines of sexual consent with a college student-driven sexual consent education campaign. J. Am. Coll. Heal. 66, 6 (2018), 450�456.
+[74] Jessica A Pater, Moon K Kim, Elizabeth D Mynatt, and Casey Fiesler. 2016. Characterizations of online harassment: Comparing policies across social media platforms. In Proceedings of the 19th international conference on supporting group work, 369�374.
+[75] Jonathan Petrychyn, Diana C Parry, and Corey W Johnson. 2020. Building community, one swipe at a time: hook-up apps and the production of intimate publics between women. Heal. Sociol. Rev. (2020), 1�15.
+[76] Olivia Petter. 2018. WHY CONSENT APPS DON�T WORK, ACCORDING TO CRIMINAL LAWYERS. The
+Independent.
+[77] John R Porter, Kiley Sobel, Sarah E Fox, Cynthia L Bennett, and Julie A Kientz. 2017. Filtered out: Disability disclosure practices in online dating communities. Proc. ACM Human-Computer Interact. 1, CSCW (2017), 87.
+[78] Anastasia Powell and Nicola Henry. 2019. Technology-facilitated sexual violence victimization: Results from an online survey of Australian adults. J. Interpers. Violence 34, 17 (2019), 3637�3665.
+[79] Urszula Pruchniewska. 2020. �I Like That It�s My Choice a Couple Different Times�: Gender, Affordances, and User Experience on Bumble Dating. Int. J. Commun. 14, (2020), 18.
+[80] Anjana Rajan, Lucy Qin, David W Archer, Dan Boneh, Tancrede Lepoint, and Mayank Varia. 2018. Callisto: A cryptographic approach to detecting serial perpetrators of sexual misconduct. In Proceedings of the 1st ACM SIGCAS Conference on Computing and Sustainable Societies, 1�4.
+[81] Afsaneh Razi, Karla Badillo-Urquiola, and Pamela J Wisniewski. 2020. Let�s Talk about Sext: How Adolescents Seek Support and Advice about Their Online Sexual Experiences. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, 1�13.
+[82] H Jonathon Rendina, Ruben H Jimenez, Christian Grov, Ana Ventuneac, and Jeffrey T Parsons. 2014. Patterns of lifetime and recent HIV testing among men who have sex with men in New York City who use Grindr. AIDS Behav. 18, 1 (2014), 41�49.
+[83] Eric Rice, Ian Holloway, Hailey Winetrobe, Harmony Rhoades, Anamika Barman-Adhikari, Jeremy Gibbs, Adam Carranza, David Dent, Shannon Dunlap, and others. 2012. Sex risk among young men who have sex with men who use Grindr, a smartphone geosocial networking application. J. AIDS Clin. Res. Suppl. 4 (2012).
+[84] Diane Richardson. 2000. Constructing sexual citizenship: theorizing sexual rights. Crit. Soc. Policy 20, 1 (February 2000), 105�135. DOI:https://doi.org/10.1177/026101830002000105
+[85] Lawrence Ross. 2016. Blackballed: The Black and White Politics of Race on America�s Campuses. Macmillan.
+[86] Janine Rowse, Caroline Bolt, and Sanjeev Gaya. 2020. Swipe right: the emergence of dating-app facilitated sexual assault. A descriptive retrospective audit of forensic examination caseload in an Australian metropolitan service. Forensic Sci. Med. Pathol. (2020), 1�7.
+[87] Jennifer D Rubin, Lindsay Blackwell, and Terri D Conley. 2020. Fragile Masculinity: Men, Gender, and Online Harassment. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, 1�14.
+[88] Muhammad Yasir Sarosh, Muhammad Abdullah Yousaf, Mair Muteeb Javed, and Suleman Shahid. 2016. Mehfoozaurat: Transforming smart phones into women safety devices against harassment. In Proceedings of the Eighth International Conference on Information and Communication Technologies and Development, 1�4.
+[89] Christine Satchell and Marcus Foth. 2010. Fear and danger in nocturnal urban environments. In Proceedings of the 22nd Conference of the Computer-Human Interaction Special Interest Group of Australia on Computer- Human Interaction, 380�383.
+[90] Christine Satchell and Marcus Foth. 2011. Welcome to the jungle: HCI after dark. In CHI�11 Extended Abstracts on Human Factors in Computing Systems. 753�762.
+[91] Stephen J Schulhofer. 2015. Consent: What It Means and Why It�s Time to Require It. U. Pac. L. Rev. 47, (2015), 665.
+[92] Gilla K. Shapiro, Ovidiu Tatar, Arielle Sutton, William Fisher, Anila Naz, Samara Perez, and Zeev Rosberger. 2017. Correlates of Tinder Use and Risky Sexual Behaviors in Young Adults. Cyberpsychology, Behav. Soc.
+Netw. 20, 12 (December 2017), 727�734. DOI:https://doi.org/10.1089/cyber.2017.0279
+[93] Frances Shaw. 2016. �Bitch I said hi�: The Bye Felipe campaign and discursive activism in mobile dating apps.
+Soc. Media+ Soc. 2, 4 (2016), 2056305116672889.
+[94] William Simon and John H. Gagnon. 1986. Sexual scripts: Permanence and change. Arch. Sex. Behav. 15, 2
+
+
+(April 1986), 97�120. DOI:https://doi.org/10.1007/BF01542219
+[95] Sharon Smith, Jieru Chen, Kathleen Basile, Leah Gilbert, Melissa Merrick, Nimesh Patel, Margie Walling, and Anurag Jain. 2016. National Intimate Partner and Sexual Violence Survey: 2010-2012 State Report. (2016).
+[96] Sharon G Smith, Xinjian Zhang, Kathleen C Basile, Melissa T Merrick, Jing Wang, Marcie-jo Kresnow, and Jieru Chen. 2018. The national intimate partner and sexual violence survey: 2015 data brief--updated release. (2018).
+[97] Robert Sparrow. 2017. Robots, rape, and representation. Int. J. Soc. Robot. 9, 4 (2017), 465�477.
+[98] Laura Stampler. Inside Tinder: Meet the Guys Who Turned Dating Into an Addiction. Time. Retrieved May 31, 2020 from https://time.com/4837/tinder-meet-the-guys-who-turneddating-into-an-addiction/
+[99] Anselm Strauss and Juliet M Corbin. 1990. Basics of Qualitative Research: Grounded Theory Procedures and Techniques. Sage Publications, Inc.
+[100] Norman Makoto Su, Amanda Lazar, Jeffrey Bardzell, and Shaowen Bardzell. 2019. Of dolls and men: Anticipating sexual intimacy with robots. ACM Trans. Comput. Interact. 26, 3 (2019), 1�35.
+[101] John P Sullins. 2012. Robots, love, and sex: the ethics of building a love machine. IEEE Trans. Affect. Comput.
+3, 4 (2012), 398�409.
+[102] Sindy R. Sumter, Laura Vandenbosch, and Loes Ligtenberg. 2017. Love me Tinder: Untangling emerging adults� motivations for using the dating application Tinder. Telemat. Informatics 34, 1 (2017), 67�78.
+DOI:https://doi.org/10.1016/j.tele.2016.04.009
+[103] Loren Terveen and David W McDonald. 2005. Social matching: A framework and research agenda. ACM Trans. Comput. Interact. 12, 3 (2005), 401�434.
+[104] Elisabeth Timmermans and Elien De Caluw�. 2017. Development and Validation of the Tinder Motives Scale (TMS). Comput. Human Behav. 70, (2017), 341�350. DOI:https://doi.org/10.1016/j.chb.2017.01.028
+[105] Catalina L. Toma and Jeffrey T. Hancock. 2010. Looks and lies: The role of physical attractiveness in online dating delf-presentation and deception. Communic. Res. 37, 3 (2010), 335�351.
+DOI:https://doi.org/10.1177/0093650209356437
+[106] Catalina L Toma and Jeffrey T Hancock. 2010. Reading between the lines: linguistic cues to deception in online dating profiles. In Proceedings of the 2010 ACM conference on Computer supported cooperative work, 5�8.
+[107] Giovanni Maria Troiano, Matthew Wood, and Casper Harteveld. 2020. � And This, Kids, Is How I Met Your Mother�: Consumerist, Mundane, and Uncanny Futures with Sex Robots. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, 1�17.
+[108] UK National Crime Agency. 2016. Emerging new threat in online dating: Initial trends in internet dating- initiated serious sexual assaults. National Crime Agency London, England. Retrieved from https://trends.ifla.org/node/425
+[109] Jessica Vitak, Kalyani Chadha, Linda Steiner, and Zahra Ashktorab. 2017. Identifying women�s experiences with and strategies for mitigating negative effects of online harassment. In Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing, 1231�1245.
+[110] Mark Warner, Andreas Gutmann, M Angela Sasse, and Ann Blandford. 2018. Privacy unraveling around explicit HIV status disclosure fields in the online geosocial hookup app Grindr. Proc. ACM human-computer Interact. 2, CSCW (2018), 1�22.
+[111] Mark Warner, Juan F Maestre, Jo Gibbs, Chia-Fang Chung, and Ann Blandford. 2019. Signal Appropriation of Explicit HIV Status Disclosure Fields in Sex-Social Apps used by Gay and Bisexual Men. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems, 1�15.
+[112] Edward G Whipple and Eileen G Sullivan. 1998. Greek Letter Organizations: Communities of Learners?. New Dir. Student Serv. 81, (1998), 7�18.
+[113] Monica T. Whitty. 2008. Revealing the �real� me, searching for the �actual� you: Presentations of self on an internet dating site. Comput. Human Behav. 24, 4 (2008), 1707�1723.
+DOI:https://doi.org/10.1016/j.chb.2007.07.002
+[114] Chad Van De Wiele and Stephanie Tom Tong. 2014. Breaking boundaries: The uses & gratifications of Grindr. In Proceedings of the 2014 ACM international joint conference on pervasive and ubiquitous computing, 619� 630.
+[115] Hailey Winetrobe, Eric Rice, Jose Bauermeister, Robin Petering, and Ian W Holloway. 2014. Associations of unprotected anal intercourse with Grindr-met partners among Grindr-using young men who have sex with men in Los Angeles. AIDS Care 26, 10 (2014), 1303�1308.
+[116] Matthew Wood, Gavin Wood, and Madeline Balaam. 2015. Talk about sex: Designing games to facilitate healthy discussions around sex. In Proceedings of the 2015 Annual Symposium on Computer-Human Interaction in Play, 795�798.
+[117] Matthew Wood, Gavin Wood, and Madeline Balaam. 2017. Sex talk: designing for sexual health with adolescents. In Proceedings of the 2017 Conference on Interaction Design and Children, 137�147.
+[118] Shangwei Wu and Janelle Ward. 2020. Looking for �interesting people�: Chinese gay men�s exploration of relationship development on dating apps. Mob. Media Commun. 8, 3 (2020), 342�359.
+[119] Doug Zytko, Sukeshini A Grandhi, and Quentin Jones. 2016. The coaches said...what?: Analysis of online dating strategies recommended by dating coaches. In Proceedings of the 19th International Conference on Supporting Group Work, 385�397. DOI:https://doi.org/10.1145/2957276.2957287
+
+
+[120] Douglas Zytko, Sukeshini A. Grandhi, and Quentin Jones. 2014. Impression management struggles in online dating. In Proceedings of the 18th international conference on supporting group work, 53�62.
+DOI:https://doi.org/10.1145/2660398.2660410
+[121] Douglas Zytko, Sukeshini A Grandhi, and Quentin Jones. 2015. Frustrations with Pursuing Casual Encounters through Online Dating. In Proceedings of the 33rd Annual ACM Conference Extended Abstracts on Human Factors in Computing Systems, 1935�1940.
+[122] Douglas Zytko, Sukeshini A Grandhi, and Quentin Jones. 2016. Online dating coaches� user evaluation strategies. In Conference on Human Factors in Computing Systems - Proceedings.
+DOI:https://doi.org/10.1145/2851581.2892482
+[123] Douglas Zytko, Victor Regalado, Nicholas Furlo, Sukeshini A. Grandhi, and Quentin Jones. 2020. Supporting Women in Online Dating with a Messaging Interface that Improves their Face-to-Face Meeting Decisions. Proc.
+ACM Human-Computer Interact. 4, CSCW2 (2020). DOI:https://doi.org/10.1145/3415208
+[124] Sexual consent. Planned Parenthood. Retrieved May 31, 2020 from https://www.plannedparenthood.org/learn/relationships/sexual-consent
+[125] What Consent Looks Like. RAINN. Retrieved May 31, 2020 from https://www.rainn.org/articles/what-is-consent
+[126] Tinder Introduces Safety-Focused Updates. Tinder Blog. Retrieved May 31, 2020 from https://blog.gotinder.com/tinder-introduces-safety-updates/
+[127] Bumble BFF. Retrieved November 30, 2019 from https://bumble.com/bff
