@@ -1,4 +1,9 @@
 
+"""The script to convert the full reference section from ACM to APA
+I think there are still some errors present in the elements where paranthesis are added to titles instead of the year etc, which I will need to clean up a bit.
+"""
+
+
 import re
 
 def read_file(file_path):

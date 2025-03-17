@@ -1,3 +1,5 @@
+"functions to convert the in-text citations from ACM to APA format"
+
 import re
 
 def identify_in_text_citations(text, start_line, end_line):
